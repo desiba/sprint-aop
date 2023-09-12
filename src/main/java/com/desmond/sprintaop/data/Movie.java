@@ -1,4 +1,4 @@
-package com.desmond.sprintaop;
+package com.desmond.sprintaop.data;
 
 import org.springframework.stereotype.Repository;
 

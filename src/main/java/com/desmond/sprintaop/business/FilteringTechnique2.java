@@ -1,7 +1,9 @@
-package com.desmond.sprintaop;
+package com.desmond.sprintaop.business;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.desmond.sprintaop.data.User;
 
 @Service
 public class FilteringTechnique2 {
